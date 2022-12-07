@@ -1,4 +1,5 @@
-# Olá, me chamo Gil, seja bem vindo!
+# Olá, me chamo Gilnei, mas podem me chamar de Gil! 
+# Apaixonado por desenvolvimento Web & Mobile e entusiasta de UI/UX.
 <div align="center">
   <a href="https://github.com/gilfraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilfraga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
